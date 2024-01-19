@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    flex: 2;
+    width: 100%;
+    
+}
+
+h1 {
+    color: black;
+    display: inline-flex;
+}
+
+.btn-add {
+    position: relative;
+    background-color: rgb(72, 255, 0);
+    width: 75px;
+    height: 29px;
+    top: 25px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
